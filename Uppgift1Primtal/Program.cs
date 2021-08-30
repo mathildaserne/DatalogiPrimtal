@@ -9,6 +9,7 @@ namespace Uppgift1Primtal
     {
         static void Main(string[] args)
         {
+            // Tillkallar metoder från Class Color och Class Prime
             Color colors = new Color();
             colors.color();
             Prime prime = new Prime();
